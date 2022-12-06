@@ -5,7 +5,7 @@ go 1.19
 require (
 	cloud.google.com/go v0.107.0
 	cloud.google.com/go/compute v1.14.0
-	cloud.google.com/go/compute/metadata v0.2.1
+	cloud.google.com/go/compute/metadata v0.2.2
 	github.com/hashicorp/go-retryablehttp v0.7.1
 )
 
