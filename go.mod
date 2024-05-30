@@ -6,7 +6,7 @@ require (
 	cloud.google.com/go v0.114.0
 	cloud.google.com/go/compute v1.27.0
 	cloud.google.com/go/compute/metadata v0.3.0
-	github.com/hashicorp/go-retryablehttp v0.7.6
+	github.com/hashicorp/go-retryablehttp v0.7.7
 )
 
 require github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
