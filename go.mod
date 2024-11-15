@@ -6,7 +6,7 @@ toolchain go1.23.3
 
 require (
 	cloud.google.com/go v0.116.0
-	cloud.google.com/go/compute v1.28.3
+	cloud.google.com/go/compute v1.29.0
 	cloud.google.com/go/compute/metadata v0.5.2
 	github.com/hashicorp/go-retryablehttp v0.7.7
 )
