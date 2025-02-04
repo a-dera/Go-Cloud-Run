@@ -2,7 +2,7 @@ module hello-run
 
 go 1.22.7
 
-toolchain go1.23.5
+toolchain go1.23.6
 
 require (
 	cloud.google.com/go v0.118.1
