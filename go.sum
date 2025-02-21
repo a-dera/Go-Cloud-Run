@@ -275,6 +275,8 @@ cloud.google.com/go/compute v1.32.0 h1:7l8HHI/Kr+bRgAnLuF63ncwGx5SPtezqBXkAZQywv
 cloud.google.com/go/compute v1.32.0/go.mod h1:kqZrAqGLzewjSyZrUaZmLhY6ahqp2/Hltu6prbuPbEY=
 cloud.google.com/go/compute v1.33.0 h1:abGcwWokP7/bBpvRjUKlgchrZXYgRpwcKZIlNUHWf6Y=
 cloud.google.com/go/compute v1.33.0/go.mod h1:Z8NErRhrWA3RmVWczlAPJjZcRTlqZB1pcpD0MaIc1ug=
+cloud.google.com/go/compute v1.34.0 h1:+k/kmViu4TEi97NGaxAATYtpYBviOWJySPZ+ekA95kk=
+cloud.google.com/go/compute v1.34.0/go.mod h1:zWZwtLwZQyonEvIQBuIa0WvraMYK69J5eDCOw9VZU4g=
 cloud.google.com/go/compute/metadata v0.2.1 h1:efOwf5ymceDhK6PKMnnrTHP4pppY5L22mle96M1yP48=
 cloud.google.com/go/compute/metadata v0.2.1/go.mod h1:jgHgmJd2RKBGzXqF5LR2EZMGxBkeanZ9wwa75XHJgOM=
 cloud.google.com/go/compute/metadata v0.2.2 h1:aWKAjYaBaOSrpKl57+jnS/3fJRQnxL7TvR/u1VVbt6k=
