@@ -8,7 +8,7 @@ require (
 	cloud.google.com/go v0.121.2
 	cloud.google.com/go/compute v1.39.0
 	cloud.google.com/go/compute/metadata v0.7.0
-	github.com/hashicorp/go-retryablehttp v0.7.7
+	github.com/hashicorp/go-retryablehttp v0.7.8
 )
 
 require (
