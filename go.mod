@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.5
 
 require (
-	cloud.google.com/go v0.121.3
+	cloud.google.com/go v0.121.4
 	cloud.google.com/go/compute v1.41.0
 	cloud.google.com/go/compute/metadata v0.7.0
 	github.com/hashicorp/go-retryablehttp v0.7.8
